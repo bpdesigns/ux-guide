@@ -41,7 +41,7 @@ The synthesis process generally involves:
     - Circle back multiple times to make sure the groupings actually make sense to everyone. Don't be afraid to rearrange and regroup. This can help identify new themes and insights.
 - Naming themes or insights; this helps with organization and forces more clarity. Statements or sentences (rather than words/phrases) can help work toward useful content that will become part of a report or summary.
 
-Avoid including people in synthesis who didn’t participate in any research sessions. If you do need to include team members who weren’t able to at least observe research sessions, make sure they understand that their role will be limited to listening and/or asking questions.
+Be thoughtful about who you include in synthesis sessions. The more people you include — particularly if you’re bringing in folks who didn’t experience the interviews — the more carefully you need to design and moderate the synthesis.
 
 **Resources:**
 - [GOV.UK Blog: How we do research analysis in agile](https://userresearch.blog.gov.uk/2014/06/05/how-we-do-research-analysis-in-agile/)
